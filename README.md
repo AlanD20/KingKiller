@@ -39,11 +39,9 @@ Supports only mouse and keyboard.
 
 ## Installation/Setup
 
-To work with the project. First, clone the repository, then add the project folder to the Unity HUB.
-
-After that, unity automatically will build all the necessary files/namespaces to the game folder.
-
-Finally, it will be ready and you are good to go.
+To work with the project. First, clone the repository
+`git clone https://github.com/AlanD20/KingKiller.git`
+Then add the project folder to the Unity HUB. After that, unity automatically will build all the necessary files/namespaces to the game folder. Finally, it will be ready and you are good to go.
 
 #### Want to setup via VS code? here are some tips to open the project via VS code.
 
