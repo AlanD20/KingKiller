@@ -1,5 +1,6 @@
 # KingKiller
-PVP online multiplayer game.
+
+
 
 ## Game Summary
 A Lobby of 2-6 players killing each other, the one who gets the most kill wins King Killer medal. Each lobby lasts 10 minutes with a maximum of 30 kills.
