@@ -20,11 +20,8 @@ A Lobby of 2-6 players killing each other, the one who gets the most kill wins K
 There are navigation buttons on the start screen.
 -	Multiplayer: switches the scene that allows the player to create a lobby or join an existing lobby.
 -	Settings: switches the scene that allows the player to optimize game performance. Includes:
-•	Shadow Off/On
-•	Contract Low/High
-•	Game Volume Low/Medium/High
+• Game Volume
 •	Sensitivity
-•	Toggle Fullscreen
 •	Graphic Quality Low/Medium/High
 -	Quit: closes the game.
 
