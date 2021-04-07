@@ -1,6 +1,8 @@
 # KingKiller
 
-
+## Production Version
+Download via [Mega.nz](https://mega.nz/file/ctswhJwQ#VOogF-3cXwKndrrbdbfiNRWcC_-OMWBVaHDMja_A86I)
+Download via [Google Drive](https://drive.google.com/file/d/1sKh6a_DPGs3qTzTVAakPwfxnr7zCJpr6/view)
 
 ## Game Summary
 A Lobby of 2-6 players killing each other, the one who gets the most kill wins King Killer medal. Each lobby lasts 10 minutes with a maximum of 30 kills.
