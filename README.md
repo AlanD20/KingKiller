@@ -11,9 +11,9 @@ A Lobby of 2-6 players killing each other, the one who gets the most kill wins K
 -	Each kill grants the player a small amount of ammo to survive longer on the battlefield.
 -	There are 5 seconds delay between each respawn to the field.
 -	Every 25 seconds in the game, a random ammo box appears at the middle of the battlefield. Ammo box does not respawn if there is already one in the battlefield.
--	Headshot is one-shot kill.
--	A health box respawns every 15 seconds.
--	Knife deals 50% damage. After that, the player loses 10% health each 4 seconds. But could get healed if they pick up one of the health boxes. 
+-	Headshot is one-shot kill. *in-progress*
+-	A health box respawns every 15 seconds. *in-progress*
+-	Knife deals 50% damage. After that, the player loses 10% health each 4 seconds. But could get healed if they pick up one of the health boxes. *in-progress*
 -	Weapons deal damage according to their types of weapon.
 
 ## Lobby/Start Screen
