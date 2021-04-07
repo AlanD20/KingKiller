@@ -11,9 +11,9 @@ A Lobby of 2-6 players killing each other, the one who gets the most kill wins K
 -	Each kill grants the player a small amount of ammo to survive longer on the battlefield.
 -	There are 5 seconds delay between each respawn to the field.
 -	Every 25 seconds in the game, a random ammo box appears at the middle of the battlefield. Ammo box does not respawn if there is already one in the battlefield.
--	Headshot is one-shot kill. *in-progress*
--	A health box respawns every 15 seconds. *in-progress*
--	Knife deals 50% damage. After that, the player loses 10% health each 4 seconds. But could get healed if they pick up one of the health boxes. *in-progress*
+-	Headshot is one-shot kill. _**in-progress**_
+-	A health box respawns every 15 seconds. _**in-progress**_
+-	Knife deals 50% damage. After that, the player loses 10% health each 4 seconds. But could get healed if they pick up one of the health boxes. _**in-progress**_
 -	Weapons deal damage according to their types of weapon.
 
 ## Lobby/Start Screen
@@ -45,7 +45,7 @@ Then add the project folder to the Unity HUB. After that, unity automatically wi
 1. Install [.Net Framework 4.7.1 Dev Pack](https://dotnet.microsoft.com/download/dotnet-framework/net471)
 2. Install this extension to help you create the solution files. 
 **Extension name:** [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
-3. Open one of the script files via VS code and wait until it builds the files for you. ***it may take a while***
+3. Open one of the script files via VS code and wait until it builds the files for you. _**it may take a while**_
 
 ## Contribution
 Feel free to use this project as a base project or contribute.
