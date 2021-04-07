@@ -35,7 +35,7 @@ Supports only mouse and keyboard.
 ###### Tags: `Multiplayer, PvP, Online PvP, FPS, Action, Shooter, Physics`	
 ##### Launch Date: `April 2021`
 
-## Installation/Setup
+## Project Setup in Unity
 
 To work with the project. First, clone the repository
 `git clone https://github.com/AlanD20/KingKiller.git`
