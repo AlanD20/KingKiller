@@ -72,8 +72,8 @@ public class GameTimer : MonoBehaviourPun
         CurrentGameTime = 0;
         RefreshTimerUI();
         GameUI.GamePaused = true;
-        Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
         GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
         foreach (GameObject p in players) Destroy(p.gameObject);
         WinnerScreenCalculation();
