@@ -19,7 +19,7 @@ public class CameraScript : MonoBehaviour
     Vector2 _smoothMouse;
     void Start()
     {
-        // Cursor.visible = false;
+        Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
 
         // targetDirection = transform.localRotation.eulerAngles; //! new
