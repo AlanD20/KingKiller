@@ -469,7 +469,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.53
-  m_Range: 120.83082
+  m_Range: 355.1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -525,7 +525,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 13290346}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16, y: 3.5428045, z: -54.2}
+  m_LocalPosition: {x: 33.52, y: 57.38, z: -54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2888,8 +2888,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.3, y: -15.4}
-  m_SizeDelta: {x: 1409.2021, y: 865.999}
+  m_AnchoredPosition: {x: -0.000024795532, y: 0.000012218952}
+  m_SizeDelta: {x: 1356.4165, y: 833.56055}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &401260123
 MonoBehaviour:
@@ -6227,8 +6227,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.3, y: -15.4}
-  m_SizeDelta: {x: 1409.2021, y: 865.999}
+  m_AnchoredPosition: {x: 0, y: -0.000006198883}
+  m_SizeDelta: {x: 1368.5747, y: 841.0322}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &892212349
 MonoBehaviour:
@@ -7590,13 +7590,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072385131}
-  m_LocalRotation: {x: -0.18444906, y: 0.5904794, z: -0.43835393, w: 0.65204185}
-  m_LocalPosition: {x: 86.7, y: 45.3, z: 31}
+  m_LocalRotation: {x: 0.2382048, y: -0.5736305, z: 0.59018534, w: -0.5156432}
+  m_LocalPosition: {x: 79.8, y: 48.3, z: 29.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 16.09, y: 75.866005, z: -55.251003}
+  m_LocalEulerAnglesHint: {x: 25.559002, y: 435.334, z: -77.850006}
 --- !u!1 &1079752571
 GameObject:
   m_ObjectHideFlags: 0
@@ -8408,7 +8408,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 56.3, y: -524}
+  m_AnchoredPosition: {x: -0.000049591, y: -488}
   m_SizeDelta: {x: 752.9448, y: 110.70618}
   m_Pivot: {x: 0.49999997, y: 0.49999997}
 --- !u!114 &1200340072
@@ -11116,6 +11116,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 11
       objectReference: {fileID: 0}
+    - target: {fileID: 104900307722164924, guid: f7b1d0e99a454cf4ebaff464401a6b75,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f7b1d0e99a454cf4ebaff464401a6b75,
         type: 3}
       propertyPath: m_Name
@@ -11130,6 +11135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3335647291442569795, guid: f7b1d0e99a454cf4ebaff464401a6b75,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7b1d0e99a454cf4ebaff464401a6b75, type: 3}
@@ -12049,8 +12059,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 7.205175, y: 5.7513, z: 18.237602}
-  m_Center: {x: 0.73700416, y: 4.113546, z: 0.24547319}
+  m_Size: {x: 8.507997, y: 5.7513, z: 18.885668}
+  m_Center: {x: 1.094126, y: 4.113546, z: 0.07491334}
 --- !u!1 &1598363956
 GameObject:
   m_ObjectHideFlags: 0
@@ -14806,7 +14816,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 678.499}
+  m_SizeDelta: {x: 0, y: 653.5322}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1970873275
 MonoBehaviour:
@@ -15370,7 +15380,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 678.499}
+  m_SizeDelta: {x: 0, y: 646.06055}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2079609755
 MonoBehaviour:
@@ -17157,6 +17167,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedMed
       objectReference: {fileID: 0}
+    - target: {fileID: 2414551024208746257, guid: 69bc29bfe891be14b89fa426ee4972af,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3083248245321026987, guid: 69bc29bfe891be14b89fa426ee4972af,
         type: 3}
       propertyPath: m_RootOrder
@@ -18191,6 +18206,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AmmoBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 5654618698491559102, guid: d86f8e8c3a958754b875daba9af9865e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d86f8e8c3a958754b875daba9af9865e, type: 3}

@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using Photon.Pun;
-
 public class GameUI : MonoBehaviour
 {
     public static bool GamePaused = false;
@@ -33,12 +32,14 @@ public class GameUI : MonoBehaviour
         Settings.SetActive(false);
         PauseMenu.SetActive(false);
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = true;
 
     }
     public void PauseGame()
     {
         GamePaused = true;
         Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = false;
         Settings.SetActive(false);
         PauseMenu.SetActive(true);
     }
