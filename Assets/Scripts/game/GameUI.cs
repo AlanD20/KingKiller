@@ -32,14 +32,14 @@ public class GameUI : MonoBehaviour
         Settings.SetActive(false);
         PauseMenu.SetActive(false);
         Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = true;
+        Cursor.visible = false;
 
     }
     public void PauseGame()
     {
         GamePaused = true;
         Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = false;
+        Cursor.visible = true;
         Settings.SetActive(false);
         PauseMenu.SetActive(true);
     }
