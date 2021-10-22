@@ -3,6 +3,8 @@
 ## Production Version
 Download via [Mega.nz](https://mega.nz/file/081hFAzJ#wqzr0lWxsJW--XI5fhicsjWRFuKdwtt5O-ve_UY3Oh8) OR via [Google Drive](https://drive.google.com/file/d/1zsWopdD8PT7AGHvHOaPTR0WO2JKKQIwV/view)
 
+**[You can get the `Introduction & Guide of King Killer` here](https://github.com/AlanD20/KingKiller/files/7397427/Introduction.Guide.of.KingKiller.pdf)**
+
 ## Game Summary
 A Lobby of 2-6 players killing each other, the one who gets the most kill wins King Killer medal. Each lobby lasts 10 minutes with a maximum of 30 kills.
 
