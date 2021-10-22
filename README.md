@@ -44,8 +44,7 @@ Then add the project folder to the Unity HUB. After that, unity automatically wi
 #### Want to setup via VS code? here are some tips to open the project via VS code.
 
 1. Install [.Net Framework 4.7.1 Dev Pack](https://dotnet.microsoft.com/download/dotnet-framework/net471)
-2. Install this extension to help you create the solution files. 
-**Extension name:** [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+2. Install [vscode-solution-explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) extension to help you create the solution files.
 3. Open one of the script files via VS code and wait until it builds the files for you. _**it may take a while**_
 
 ## Contribution
